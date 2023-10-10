@@ -8,12 +8,12 @@ Elementos HTML = 1 punto
 Clases = 10 puntos
 ID = 100 puntos
 Inline styles = 1000 puntos
-!important -> Tiene preferencia sobre cualquier otro tipo de selector NO SE USA NUNCA!!!
+!important -> Tiene preferencia sobre cualquier otro tipo de selector NO SE USA NUNCA (Bueno casi Nunca)!!!
 
 
 
 Cascaada -> Es el orden en el que se aplican los estilos, esto se puede modificar con el uso de !important  
-Cascada-> Funciona siemore que la especicifidad sobre el elemento sea la misma
+Cascada-> Funciona siempre que la especicifidad sobre el elemento sea la misma
 Herencia -> Es la propagacion de estilos de un elemento padre a un elemento hijo
 */
 
